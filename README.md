@@ -17,7 +17,7 @@ This is a Windows port of the original [Linux version](https://github.com/Shio-T
 
 ## Demo
 
-<!-- Add a demo video/gif here -->
+In [here](https://github.com/Shio-T0/WDS-Wallpaper-Display-for-Spotify)
 
 ## Dependencies
 
@@ -38,8 +38,8 @@ This is a Windows port of the original [Linux version](https://github.com/Shio-T
 Open PowerShell (a regular one — not as admin) and run:
 
 ```powershell
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Shio-T0/WDS-WindowsFork
+cd WDS-WindowsFork
 powershell -ExecutionPolicy Bypass -File install.ps1
 ```
 
@@ -68,8 +68,8 @@ winget install Gyan.FFmpeg
 3. Clone and sync:
 
 ```powershell
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/Shio-T0/WDS-WindowsFork
+cd WDS-WindowsFork
 uv sync
 ```
 
